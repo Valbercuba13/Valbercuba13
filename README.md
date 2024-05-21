@@ -17,7 +17,33 @@
   <div style="display: inline_block; margin: 10px;">
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   </div>
-  <div style="display: inline_block; margin: 10px;">
-    <img align="center" alt="UNITY" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+
+   <div style="display: inline_block; margin: 10px;">
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </div>
+
+  <div style="display: inline_block; margin: 10px;">
+    <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </div>
+
+  <div style="display: inline_block; margin: 10px;">
+    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </div>
+
+  <div style="display: inline_block; margin: 10px;">
+    <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </div>
+
+  
+
+  
+  <div style="display: inline_block; margin: 10px;">
+    <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+  </div>
+
+  <div style="display: inline_block; margin: 10px;">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  </div>
+  
+  
 </p>
